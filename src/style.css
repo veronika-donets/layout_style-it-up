@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+}
+
+#header {
+  background-color: blue;
+  height: 100px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.important {
+  background-color: red;
+  height: 100px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.interesting {
+  background-color: green;
+  height: 100px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.surprising {
+  background-color: orange;
+  height: 100px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#footer {
+  background-color: black;
+  height: 100px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
